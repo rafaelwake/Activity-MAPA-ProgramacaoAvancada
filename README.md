@@ -1,8 +1,8 @@
-#Java
+# Java
 
-##Activity that I did challenge to learn more about Java
+## Activity that I did challenge to learn more about Java
 
-##Find description bellow:
+## Find description bellow:
 
 
 Uma nova profissão que surgiu nos últimos anos foi a de Motorista por Aplicativo, por meio de um simples aplicativo pessoas comuns conseguiram ter um novo emprego, gerando oportunidade a milhões de pessoas, além disso, para quem também consome o serviço também obteve vantagens, pois os valores das corridas reduziram.
